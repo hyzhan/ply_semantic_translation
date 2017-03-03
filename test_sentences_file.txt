@@ -16,4 +16,7 @@ start xxx lamp please
 please do not open the lamp
 please close the lamp!!!
 please do not close the lamp!!!
+please don't close the lamp!!!
+please did not close the lamp!!!
+please didn't close the lamp!!!
 please open the lamp and then close the lamp!!!

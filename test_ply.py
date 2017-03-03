@@ -14,7 +14,7 @@ from ply.lex import TOKEN
 tokens = ("NOT","OPEN","CLOSE","VERB","LAMP","AirPurifier","OBJECT_SMART","USELESS")
 # t_ignore = r"\t"
 t_NOT=(
-    r"(do\snot|don\'t)"
+    r"(do\snot|don\'t|did\snot|didn't)"
 )
 t_OPEN=(
     r"(open|start|turn\son)"
